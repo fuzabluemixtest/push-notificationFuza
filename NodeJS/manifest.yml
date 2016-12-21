@@ -1,6 +1,6 @@
 applications:
-- name: mobilefirst
-  host: mobilefirst
+- name: push notification-fuza
+  host: push notification-fuza
   disk_quota: 1024M
   command: node app.js
   path: .
